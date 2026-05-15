@@ -1,0 +1,16 @@
+# Secret files - NEVER upload these!
+.env
+
+# Python virtual environment - too large to upload!
+.venv/
+
+# Python cache files - unnecessary!
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
